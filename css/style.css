@@ -90,5 +90,9 @@ figcaption {
 }
 
 .col-3 {
-  background: #ccc; 
+  background: #ccc;
+}
+
+[class*="col-"] {
+  margin-left: 2%;
 }
