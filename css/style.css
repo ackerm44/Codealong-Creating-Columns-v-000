@@ -72,7 +72,7 @@ figcaption {
 }
 
 img, video, audio {
-  max-width: 100%; 
+  max-width: 100%;
 }
 
 .wrapper {
@@ -112,4 +112,10 @@ img, video, audio {
   visibility: hidden;
   height: 0;
   line-height: 0;
+}
+
+section {
+  padding: 20px; 
+  margin-bottom: 20px;
+
 }
